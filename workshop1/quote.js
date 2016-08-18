@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Hearts", "Clubs", "Theater", "Math", "Architecture"];
+var things = ["Tree", "Clock", "Trains", "Soup", "Crayons"];
 var programmers = ["Jack", "Queen", "King", "Ace"]
 var castles = ["hearts", "clubs", "spades", "diamonds"]
 var exertions = ["play", "read", "win", "gamble", "endeavor", "hard work", "labor"];
